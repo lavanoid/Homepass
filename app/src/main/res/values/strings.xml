@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Homepass</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_start">Start AP</string>
+    <string name="main_instructions">Select a method of changing the devices MAC address, then press "Start AP"</string>
+
+</resources>
